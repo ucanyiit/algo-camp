@@ -3,7 +3,7 @@ def howSum(targetSum, numbers):
   for i in range(1, targetSum+1):
     result = False
     for number in numbers:
-      remainder = i-number
+      remainder = i - number
       if(remainder < 0):
         continue
       if(table[remainder] is False):

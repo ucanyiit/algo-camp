@@ -14,6 +14,16 @@ def maxPath(grid, n, m, x, y):
   return table[x][y]
      
 
-grid = [[3, 7, 9, 2, 7], [9, 8, 3, 5, 5], [1, 7, 9, 8, 5], [3, 8, 6, 4, 10], [6, 3, 9, 7, 8]]
+# grid = [[3, 7, 9, 2, 7], [9, 8, 3, 5, 5], [1, 7, 9, 8, 5], [3, 8, 6, 4, 10], [6, 3, 9, 7, 8]]
 
-print(maxPath(grid, 5, 5, 3, 2))
+# print(maxPath(grid, 5, 5, 3, 2))
+
+N, M, X, Y = [int(x) for x in input().split()]
+grid = []
+for i in range(N):
+  lst = [int(x) for x in input().split()]
+  grid.append(lst)
+
+print(maxPath(grid, N, M, X-1, Y-1))
+
+# https://arsiv.cclub.metu.edu.tr/problem/20bcoffee/

@@ -28,6 +28,11 @@ def canSumMemo(targetSum, numbers, memo):
   memo[targetSum] = False
   return False
   
+
+# print(canSum(7, [2, 3]))
+# print(canSum(7, [2, 3, 5, 7]))
+# print(canSum(300, [7, 14]))
+
 print(canSumMemo(7, [2, 3], {}))
 print(canSumMemo(7, [2, 3, 5, 7], {}))
 print(canSumMemo(300, [7, 14], {}))

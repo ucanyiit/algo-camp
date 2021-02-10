@@ -5,4 +5,4 @@ def fib(N):
       table.append(new_elem)
     return table[N]
 
-fib(20)
+print(fib(50))

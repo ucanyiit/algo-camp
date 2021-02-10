@@ -26,4 +26,4 @@ def maxPathMemo(grid, n, m, memo):
 
 grid = [[3, 7, 9, 2, 7], [9, 8, 3, 5, 5], [1, 7, 9, 8, 5], [3, 8, 6, 4, 10], [6, 3, 9, 7, 8]]
 
-print(maxPathMemo(grid, 5-1, 5-1, {}))
+print(maxPath(grid, 5-1, 5-1))

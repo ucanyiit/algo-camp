@@ -7,9 +7,7 @@ def howSum(targetSum, numbers):
   for number in numbers:
     remainder = targetSum - number
     result = howSum(remainder, numbers)
-    if(result is False):
-      continue
-    else:
+    if(result is not False):
       result.append(number)
       break
   
