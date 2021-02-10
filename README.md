@@ -16,9 +16,9 @@
 
 ### Questions
 
-- [Şekerkopter (geometri)](day2/soru1-heli.py)
-- [Lamp (greedy)](day2/soru2-lamp.py)
-- [Largest Rectangle (stack)](day2/soru3-rectangle.py)
+- [Şekerkopter (geometri)](day1/problems/soru1-heli.py)
+- [Lamp (greedy)](day1/problems/soru2-lamp.py)
+- [Largest Rectangle (stack)](day1/problems/soru3-rectangle.py)
 ## Day 2 - Math & Sort: Sorting Algorithms, Factorization, Combinatorics, Exponentiation
 
 - [Insertion Sort](day2/sort-insertion.py)
