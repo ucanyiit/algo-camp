@@ -7,12 +7,12 @@
 
 - Algoritmalar ne işe yarar, programlama yarışmaları nedir?
 - Complexity: [Big O notation](https://thatcomputerscientist.com/big-o-notation-explained-as-easily-as-possible), Big Theta and Big Omega
-- [Örnek 1 soru](day1/example-indirim.cpp)
-- List, Dictionary, Tuple, Set (ve bunların c++'daki karşılıkları olan array, vector, map, pair, tuple, set)
-- Graph/Tree, Directed/Undirected vs.
-- Recursion: ([palindrom](day1/recursion-palindrome.py) & [fibonacci](day1/recursion-fibonacci.py))
-- Stack & Queue: ([parantez](day1/stack-parantheses.py))
-- Priority Queue/Heap: nedir ne değildir?
+- [Example Problem](day1/example-indirim.cpp)
+- List, Dictionary, Tuple, Set (and array, vector, map, pair, tuple, set in C++)
+- Introduction to Graph Concepts
+- Recursion: ([palindrome](day1/recursion-palindrome.py) & [fibonacci](day1/recursion-fibonacci.py))
+- Stack & Queue: ([parantheses](day1/stack-parantheses.py))
+- Priority Queue/Heap
 
 ### Questions
 
@@ -38,3 +38,18 @@
 - maxPath [[Naive and Memoization](day3/memoization-maxPath.py), [Tabulation](day3/tabulation-maxPath.py)]
 
 Additional Sources: [Dynamic Programming Video from freeCodeCamp](https://www.youtube.com/watch?v=oBt53YbR9Kk) 
+
+## Day 4 - Graph Algorithms
+
+- Representing Graphs
+- Graph Traversals (Depth First Search, Breadth First Search)
+- Shortest Path Algorithms (Dijkstra, Floyd-Warshall)
+- Spanning Trees (Kruskal, Prim)
+
+Additional Sources: [Graph Theory Tutorial from freeCodeCamp](https://www.youtube.com/watch?v=09_LlHjoEiY)
+
+## Day 5 - Other Topics
+
+- Greedy Algorithms
+- Bit Manipulation
+- Range Queries (Sum queries, Segment Trees)
