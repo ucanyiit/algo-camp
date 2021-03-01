@@ -1,7 +1,9 @@
+This repository includes some resources for general topics in competitive programming and algorithms in general. I have used the sources below during a 5-day long algorithm camp I've given to members of METU Computer Club who are starting to competitive programming. The content doesn't include advanced topics and is aimed at people who have basic knowledge of programming but just starting to dive into algorithms.
+
 ## Helpful Sources
 
 - [Competitive Programmer's Handbook](https://github.com/pllk/cphb/blob/master/book.pdf)
-- [inzva's Bundles](https://github.com/inzva/Algorithm-Program/tree/master/bundles)
+- [inzva's Bundles](https://github.com/inzva/Algorithm-Program/tree/master/bundles) (Some of them are in Turkish)
 
 ## Day 1 - Intro: Complexity, Recursion, Data Structures (Stack, Queue, Heap)
 
@@ -49,11 +51,32 @@ Additional Sources: [Graph Theory Tutorial from freeCodeCamp](https://www.youtub
 - Bit Manipulation
 - Range Queries (Sum queries, Segment Trees)
 
+_In the last two days, we have used [Competitive Programmer's Handbook](https://github.com/pllk/cphb/blob/master/book.pdf) during the algorithm camp. You can find the example codes I have shown from the book there. Also, the last day was more like a mix of topics. Those are the topics I wanted to mention at least a bit._ 
 
-## Problems
+# Problems
 
 ### Day 1
 
-- [Candycopter (geometry)](https://arsiv.cclub.metu.edu.tr/problem/heli/)
-- [Lamp (greedy)](https://arsiv.cclub.metu.edu.tr/problem/20blamp/)
-- [Largest Rectangle (stack)](https://www.hackerrank.com/challenges/largest-rectangle/problem)
+- [Candycopter](https://arsiv.cclub.metu.edu.tr/problem/heli/)
+- [Lamp](https://arsiv.cclub.metu.edu.tr/problem/20blamp/)
+- [Largest Rectangle](https://www.hackerrank.com/challenges/largest-rectangle/problem)
+
+### Day 2
+
+- [Math Contest](https://arsiv.cclub.metu.edu.tr/problem/sinav/)
+- [Problem About Base](https://arsiv.cclub.metu.edu.tr/problem/basamak/)
+- [Prima Sort](https://arsiv.cclub.metu.edu.tr/problem/20bprima/)
+- [Robot](https://arsiv.cclub.metu.edu.tr/problem/20brobot/)
+
+### Day 3
+
+- [Numbering Obsessively](https://arsiv.cclub.metu.edu.tr/problem/takinti/)
+- [Letter](https://codeforces.com/problemset/problem/180/C)
+- [Ebru's New Language](https://arsiv.cclub.metu.edu.tr/problem/dil/)
+- [Deren and His Stick](https://arsiv.cclub.metu.edu.tr/problem/sopa/)
+
+### Day 4
+
+- [Knight Escape](https://www.hackerrank.com/contests/inzva-algorithm-competition-league-contest-4/challenges/knight-escape)
+- [Finding Friends](https://arsiv.cclub.metu.edu.tr/problem/arkadas/)
+- [Dano and Deno](https://arsiv.cclub.metu.edu.tr/problem/friendsnotfood/)
