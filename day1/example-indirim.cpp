@@ -1,6 +1,7 @@
 // https://arsiv.cclub.metu.edu.tr/problem/indirim/
 
-#include <bits/stdc++.h>
+#include <algorithm>
+#include <iostream>
 using namespace std;
 
 int arr[300005], n, m, res;
