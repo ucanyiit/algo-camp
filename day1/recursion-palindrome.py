@@ -23,3 +23,7 @@ class Solution:
         print(str)
         
         return isPalindromeHelper(str, 0, len(str)-1)
+
+instance = Solution()
+result = instance.isPalindrome("racecar")
+print(result)
